@@ -1,0 +1,12 @@
+D:\Lorns\C#\Masrofiy\Masrofiy\bin\Debug\Masrofiy.exe.config
+D:\Lorns\C#\Masrofiy\Masrofiy\bin\Debug\Masrofiy.exe
+D:\Lorns\C#\Masrofiy\Masrofiy\bin\Debug\Masrofiy.pdb
+D:\Lorns\C#\Masrofiy\Masrofiy\obj\Debug\Masrofiy.csproj.AssemblyReference.cache
+D:\Lorns\C#\Masrofiy\Masrofiy\obj\Debug\Masrofiy.Properties.Resources.resources
+D:\Lorns\C#\Masrofiy\Masrofiy\obj\Debug\Masrofiy.csproj.GenerateResource.cache
+D:\Lorns\C#\Masrofiy\Masrofiy\obj\Debug\Masrofiy.csproj.CoreCompileInputs.cache
+D:\Lorns\C#\Masrofiy\Masrofiy\obj\Debug\Masrofiy.exe
+D:\Lorns\C#\Masrofiy\Masrofiy\obj\Debug\Masrofiy.pdb
+D:\Lorns\C#\Masrofiy\Masrofiy\obj\Debug\Masrofiy.WalletForm.resources
+D:\Lorns\C#\Masrofiy\Masrofiy\obj\Debug\Masrofiy.ChartForm.resources
+D:\Lorns\C#\Masrofiy\Masrofiy\obj\Debug\Masrofiy.HistoryForm.resources

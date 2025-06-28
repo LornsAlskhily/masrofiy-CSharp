@@ -1,0 +1,1 @@
+open execution file and open masrofy.exe
